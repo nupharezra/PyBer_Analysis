@@ -12,7 +12,7 @@ The chart below is a condensed snapshot that shows per city type the total numbe
 
 This multiline graph gives us a visualization of the rideshare data by type of city. It shows that across all city types the total fares are fairly consistent over time. It also shows that the majority of the profit comes from urban cities followed by suburban and rural cities. Even though the average fare is higher in rural cities, the number of total rides is thirteen times higher in urban cities than in rural cities.
 
-![ PyBer_fare_summary]( PyBer_fare_summary.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/77867872/110276890-fbb2a200-7f88-11eb-9fed-6d208c799d5f.png)
 
 ## Summary: 
 
